@@ -18,7 +18,6 @@ body {
   display: flex;
   flex-direction: row;
 }
-
 .product-image {
   height: 53vh;
   width: 100%;
